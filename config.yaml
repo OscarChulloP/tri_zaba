@@ -1,8 +1,8 @@
 baseurl: https://devcows.github.io/hugo-universal-theme/
-title: Universal
+title: Tri Zaba
 theme: hugo-universal-theme
-languageCode: en-us
-defaultContentLanguage: en
+languageCode: es
+defaultContentLanguage: es
 summaryLength: 70
 paginate: 10
 pluralizelisttitles: no
@@ -98,11 +98,11 @@ menu:
       url: ''
       weight: 3
     - identifier: menu.portfolio
-      name: Portfolio
+      name: Portafolio
       url: /img/template-homepage.png
       weight: 3
     - identifier: section.portfolio
-      name: Portfolio
+      name: Portafolio
       parent: menu.portfolio
       post: 1
       url: ''
@@ -246,7 +246,7 @@ menu:
   topbar:
     - name: Phone
       pre: <i class='fas fa-2x fa-phone'></i>
-      url: tel:+12 34 567 89 01
+      url: tel:+51 966834123
       weight: 1
     - name: GitHub
       pre: <i class='fab fa-2x fa-github'></i>
@@ -262,13 +262,12 @@ menu:
       weight: 4
     - name: Email
       pre: <i class='fas fa-2x fa-envelope'></i>
-      url: mailto:hello@universal.com
+      url: mailto:trizaba@universal.com
       weight: 5
 params:
-  about_us: <p>Pellentesque habitant morbi tristique senectus et netus et malesuada
-    fames ac turpis egestas.</p>
-  address: "<p class=\"text-uppercase\"><strong>Universal Ltd.</strong>\r\n        <br>13/25
-    New Avenue\r\n        <br>Newtown upon River\r\n        <br>45Y 73J\r\n        <br>England\r\n
+  about_us: <p>Somos un grupo de profesionales especializados</p>
+  address: "<p class=\"text-uppercase\"><strong>Tři Žába Ltd.</strong>\r\n        <br>13/25
+    Nuestra dirección\r\n        <br>Cusco\r\n        <br>Cusco\r\n        <br>Perú\r\n
     \       <br>\r\n        <strong>Great Britain</strong>\r\n      </p>\r\n      "
   author: DevCows
   carouselCustomers:
@@ -288,12 +287,12 @@ params:
     slide_speed: 2000
   clients:
     enable: yes
-    subtitle: ''
-    title: Our Clients
+    subtitle: 'UNSAAC, UAC, UNI, etc.'
+    title: Nuestros Clients
   contact_form_ajax: no
   contact_url: /contact
-  copyright: Copyright (c) 2015 - 2016, YourCompany; all rights reserved.
-  date_format: January 2, 2006
+  copyright: Copyright (c) 2025, Tri Zaba; all rights reserved.
+  date_format: January 16, 2025
   default_sharing_image: img/sharing-default.png
   defaultDescription: Site template made by Devcows using Hugo
   defaultKeywords:
@@ -311,23 +310,20 @@ params:
   footer:
     recent_posts:
       enable: yes
-  formspree_action: https://formspree.io/sample/of/endpoint
+  formspree_action: https://formspree.io/f/mrbeozej
   googleMapsApiKey: AIzaSyAv7Sza8NSp9_l_g8G2vlo0H4ydEPn_2jY
   googleRecaptchaKey: site_key_for_google_recaptcha
   latitude: '-12.043333'
   logo: img/logo.png
   logo_small: img/logo-small.png
-  logo_text: Universal
+  logo_text: Tři Žába
   longitude: '-77.028333'
   mainSections: blog
   recent_posts:
     enable: yes
     hide_summary: no
-    subtitle: Pellentesque habitant morbi tristique senectus et netus et malesuada
-      fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget,
-      tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean
-      ultricies mi vitae est. Mauris placerat eleifend leo.
-    title: From our blog
+    subtitle: Tu tesis no se hara sola...
+    title: Acerca de Tři Žába
   see_more:
     enable: yes
     icon: far fa-file-alt
@@ -335,19 +331,17 @@ params:
     link_url: '#'
     subtitle: We have prepared for you more than 40 different HTML pages, including
       5 variations of homepage.
-    title: Do you want to see more?
+    title: ¿Te gustaria ver más de nosotros?
   style: default
   testimonials:
     enable: yes
-    subtitle: We have worked with many clients and we always like to hear they come
-      out from the cooperation happy and satisfied. Have a look what our clients said
-      about us.
-    title: Testimonials
+    subtitle: Hemos trabajado con muchos clientes y siempre nos gusta escucharlos venir. Salimos de la cooperación felices y satisfechos. Echa un vistazo a lo que dijeron nuestros clientes sobre nosotros.
+    title: Testimonios
   topbar:
     enable: yes
-    text: "<p class=\"hidden-sm hidden-xs\">Contact us on +420 777 555 333 or hello@universal.com.</p>\r\n
-      \     <p class=\"hidden-md hidden-lg\"><a href=\"tel:+420 777 555 333\" data-animate-hover=\"pulse\"><i
-      class=\"fas fa-phone\"></i></a>\r\n      <a href=\"mailto:hello@universal.com\"
+    text: "<p class=\"hidden-sm hidden-xs\">Contact us on +51 966834123 or trizaba@gmail.com</p>\r\n
+      \     <p class=\"hidden-md hidden-lg\"><a href=\"tel:+51 966 834 123\" data-animate-hover=\"pulse\"><i
+      class=\"fas fa-phone\"></i></a>\r\n      <a href=\"mailto:trizaba@gmail.com\"
       data-animate-hover=\"pulse\"><i class=\"fas fa-envelope\"></i></a>\r\n      </p>\r\n
       \     "
   twitter_site: GoHugoIO
