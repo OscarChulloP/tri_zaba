@@ -4,7 +4,7 @@ theme: hugo-universal-theme
 languageCode: es
 defaultContentLanguage: es
 summaryLength: 70
-paginate: 10
+pagerSize: 10
 pluralizelisttitles: no
 services:
   disqus:
